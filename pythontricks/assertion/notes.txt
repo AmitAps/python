@@ -1,0 +1,14 @@
+-->Python’s assert statement is a debugging aid that tests a
+condition. If the assert condition is true, nothing happens, and your
+program continues to execute as normal. But if the condition evalu-
+ates to false, an AssertionError exception is raised with an optional
+error message.
+
+
+• Python’s assert statement is a debugging aid that tests a condi-
+tion as an internal self-check in your program.
+
+• Asserts should only be used to help developers identify bugs.
+They’re not a mechanism for handling run-time errors.
+
+• Asserts can be globally disabled with an interpreter setting.
